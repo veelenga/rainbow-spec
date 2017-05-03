@@ -2,7 +2,7 @@
 
 Rainbow spec formatter:
 
-![](https://media.githubusercontent.com/media/veelenga/ss/master/rainbow-spec/demo.gif)
+![](https://media.githubusercontent.com/media/veelenga/bin/master/rainbow-spec/demo.gif)
 
 ## Usage
 
