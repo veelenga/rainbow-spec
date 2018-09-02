@@ -1,5 +1,5 @@
 class RainbowFormatter < Spec::DotFormatter
-  VERSION = "0.1.0"
+  VERSION = "0.2.0"
 
   PI_3 = Math::PI / 3
 
