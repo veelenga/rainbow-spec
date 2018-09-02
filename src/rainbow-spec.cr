@@ -5,7 +5,7 @@ class RainbowFormatter < Spec::DotFormatter
 
   @palette : Array(UInt8)
 
-  def initialize
+  def initialize(@io : IO = STDOUT)
     # https://github.com/seattlerb/minitest/blob/master/lib/minitest/pride_plugin.rb#L117-L128
     @palette = (0...(6 * 7)).map do |n|
       n *= 1.0 / 6
